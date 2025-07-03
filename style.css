@@ -8,5 +8,15 @@ header{
     border-bottom: dotted 4px rgb(42, 179, 40);
     padding: 10px;
     font-size: 20px;
-    color: rgb(40, 110, 26);
+    color: rgb(148, 17, 17);
+}
+section {
+    background-color: yellowgreen;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
